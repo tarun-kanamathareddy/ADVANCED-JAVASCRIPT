@@ -1,2 +1,2 @@
-# ADVANCED-JAVASCRIPT-PROGRESSBAR
+# ADVANCED-JAVASCRIPT-FOODBILL
 Progress Bar Project Based on Advanced Javascript
